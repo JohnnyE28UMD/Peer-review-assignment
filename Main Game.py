@@ -98,3 +98,6 @@ print(players_df)
 
 # Plot the final scores
 plot_scores(players_df)
+
+
+#Peer Code Review suggestion: You should revamp the data visualization code because whenever I try to start a game, I get an error caused by the visualizaiton code details.
